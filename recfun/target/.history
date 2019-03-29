@@ -1,0 +1,18 @@
+project
+projects
+clear
+ls
+projects
+compile
+run
+clear
+ls
+clear
+ls
+cd src
+ls
+compile
+run
+test
+compile
+test
