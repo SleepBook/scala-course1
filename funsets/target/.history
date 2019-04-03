@@ -1,2 +1,6 @@
 ls
 project
+compile
+test
+clear
+ls
